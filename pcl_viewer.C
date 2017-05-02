@@ -1,4 +1,4 @@
-#!/home/oles/src/test-cling/inst/bin/cling -std=c++14
+#!cling -std=c++14
 
 // PCL libraries
 .L /usr/local/lib/libpcl_visualization.so
