@@ -1,4 +1,4 @@
-# How to run Point Cloud Library functions in Cling interpreter?
+# How to use Point Cloud Library in Cling interpreter?
 This example shows how to configure Cling for Point Cloud Library. Using an interpreter significantly boosts development of Point Cloud processing applications. It is particularly useful for quick fine-tuneing of algorithm parameters and output visualization.
 
 ## Setting up Cling
